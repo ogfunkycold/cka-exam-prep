@@ -62,5 +62,10 @@ brings together the industry’s top developers, end users, and vendors;
 and serves as a neutral home for collaboration. CNCF is part of The
 Linux Foundation, a nonprofit organization. For more information
 about CNCF, please visit: https://cncf.io/.
+
+CNCF encourages training companies to align their offerings to cover the contents 
+of the curriculum. Training [partners](https://www.cncf.io/certification/training/) 
+can purchase coupons for the CKA exam at a wholesale price to offer at the end 
+of their training.
 ```
 
