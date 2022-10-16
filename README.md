@@ -87,7 +87,7 @@ If you are unsure of the spec or parameters of a yaml, always use `kubectl expla
 
 ### kubectl
 
-- [ ] Read and practice with **kubectl Cheat Sheet** - [https://kubernetes.io/docs/reference/kubectl/cheatsheet/](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - This page is an overview of the kubectl command. **NOTE:** This page can be referenced with your one other available tab.
+- [ ] Read and practice with **kubectl Cheat Sheet** - [https://kubernetes.io/docs/reference/kubectl/cheatsheet/](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - This page is an overview of the kubectl command.
 
 These aliases will help save the precious time you have. Use these during your studies, so you are used to them on the day.
 
