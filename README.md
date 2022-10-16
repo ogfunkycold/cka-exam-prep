@@ -116,9 +116,11 @@ This is a list of some resoures I used to study for the exam.
 
 ### Read
 
-- [ ] Read **Certified Kubernetes Administrator (CKA) Study Guide** - https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9781098107215/ -  Exclusively on O'Reilly: Get more hands-on training and test your CKA exam readiness by working through the Certified Kubernetes Administrator (CKA) Exam Prep Labs playlist. This collection of 30 interactive labs provides hands-on training that enhances the exam prep provided by this study guide.
+- [ ] Read **Certified Kubernetes Administrator (CKA) Study Guide** by Benjamin Muschko - https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9781098107215/ -  Exclusively on O'Reilly: Get more hands-on training and test your CKA exam readiness by working through the Certified Kubernetes Administrator (CKA) Exam Prep Labs playlist. This collection of 30 interactive labs provides hands-on training that enhances the exam prep provided by this study guide.
 
 - [ ] Read **The Kubernetes Book** by Nigel Poulton - [THE KUBERNETES BOOK](https://nigelpoulton.com/books/)
+
+- [ ] Read **Kubernetes: Up and Running, 3rd Edition** By Brendan Burns, Joe Beda, Kelsey Hightower, Lachlan Evenson - https://learning.oreilly.com/library/view/kubernetes-up-and/9781098110192/
 
 #### Additional Reading
 
@@ -130,7 +132,9 @@ This is a list of some resoures I used to study for the exam.
 
 - [ ] Do **all** the tasks on [https://kubernetes.io/docs/tasks/](https://kubernetes.io/docs/tasks/) - This section of the Kubernetes documentation contains pages that show how to do individual tasks. A task page shows how to do a single thing, typically by giving a short sequence of steps.
 
-- [ ] Do **kelseyhightower/kubernetes-the-hard-way** - [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster.
+- [ ] Do **kelseyhightower/kubernetes-the-hard-way** - [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster.   Kubernetes The Hard Way is optimized for learning, which means taking the long route to ensure you understand each task required to bootstrap a Kubernetes cluster.
+
+- [ ] Do **Kubernetes The Hard Way On VirtualBox** - [https://github.com/mmumshad/kubernetes-the-hard-way](https://github.com/mmumshad/kubernetes-the-hard-way) - This tutorial is a modified version of the original developed by [Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way). While the original one uses GCP as the platform to deploy kubernetes, we use VirtualBox and Vagrant to deploy a cluster on a local machine. If you prefer the cloud version, refer to the original one [here](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 ### Courses
 
