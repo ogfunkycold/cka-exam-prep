@@ -1,7 +1,7 @@
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-# ☸️ My Preparation to be a Certified Kubernetes Administrator (CKA)
+# ☸️ My Preparation for the Certified Kubernetes Administrator (CKA) Exam
 
 This summary provides the curriculum outline of the Knowledge, Skills and Abilities that a Certified Kubernetes Administrator (CKA) can be expected to demonstrate.
 
