@@ -116,9 +116,9 @@ This is a list of some resoures I used to study for the exam.
 
 ### Read
 
-- [ ] Read Certified Kubernetes Administrator (CKA) Study Guide - https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9781098107215/ -  Exclusively on O'Reilly: Get more hands-on training and test your CKA exam readiness by working through the Certified Kubernetes Administrator (CKA) Exam Prep Labs playlist. This collection of 30 interactive labs provides hands-on training that enhances the exam prep provided by this study guide.
+- [ ] Read **Certified Kubernetes Administrator (CKA) Study Guide** - https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9781098107215/ -  Exclusively on O'Reilly: Get more hands-on training and test your CKA exam readiness by working through the Certified Kubernetes Administrator (CKA) Exam Prep Labs playlist. This collection of 30 interactive labs provides hands-on training that enhances the exam prep provided by this study guide.
 
-- [ ] **The Kubernetes Book** by Nigel Poulton - [THE KUBERNETES BOOK](https://nigelpoulton.com/books/)
+- [ ] Read **The Kubernetes Book** by Nigel Poulton - [THE KUBERNETES BOOK](https://nigelpoulton.com/books/)
 
 #### Additional Reading
 
