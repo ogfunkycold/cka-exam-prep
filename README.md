@@ -67,15 +67,13 @@ coupons for the CKA exam at a wholesale price to offer at the end of their train
 ## Exam resources
 
 - [Candidate Handbook](https://training.linuxfoundation.org/go/cka-ckad-candidate-handbook)
-- [Curriculum Overview](https://github.com/cncf/curriculum)
+- [Curriculum Overview](https://github.com/cncf/curriculum)   (The latest curriculum can always be found here...)
 - [Exam Tips](http://training.linuxfoundation.org/go//Important-Tips-CKA-CKAD)
 - [Frequently Asked Questions](http://training.linuxfoundation.org/go/cka-ckad-faq)
 - [Certification and Confidentiality Agreement](http://training.linuxfoundation.org/go/CNCF-certification-and-confidentiality-agreement)
 - [Verify Certification](https://training.linuxfoundation.org/certification/verify-certifications)
 - [CKA Reseller FAQs](https://www.cncf.io/certification/expert/cka/reseller-faqs/)
 - [Read: A Community Member’s Experience](https://www.cncf.io/blog/2021/07/30/success-story-preparing-for-kubernetes-certification-improves-a-platform-development-engineers-skill-set/)
-
-The latest curriculum can always be found at [https://github.com/cncf/curriculum](https://github.com/cncf/curriculum).
 
 During the exam you are allowed be allowed to open **one** tab apart from the browser based terminal. You can open _any_ link under the [kubernetes.io](kubernetes.io) domain. Some links that will help during the exam are;
 
