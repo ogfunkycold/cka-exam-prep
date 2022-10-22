@@ -217,3 +217,17 @@ I would suggest that you follow each and every page of this website and here are
 - [ ] Do **Certified Kubernetes Administrator (CKA) with Practice Tests(Udemy)** course - [https://www.udemy.com/certified-kubernetes-administrator-with-practice-tests/](https://www.udemy.com/certified-kubernetes-administrator-with-practice-tests/) or **CKA Certification Course – Certified Kubernetes Administrator(KodeKloud)** course [https://kodekloud.com/courses/certified-kubernetes-administrator-cka/](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/) - Both courses were prepared by Mumshad Mannambeth for the Certified Kubernetes Administrators Certification with live practice tests right in your browser.
 
 - [ ] Do **Kubernetes Deep Dive** course - [https://acloud.guru/learn/kubernetes-deep-dive](https://acloud.guru/learn/kubernetes-deep-dive) - Everything you need to know to start deploying and managing cloud-native applications on Kubernetes in the real world.
+
+
+### Additional Resources
+
+There is a google spreadsheet created by the community that compiles a lot of useful resources that can be found [here](https://bit.ly/2IdKwIc).
+
+Some additional useful Github repositories:
+
+-  https://github.com/stretchcloud/cka-lab-practice
+-  https://github.com/walidshaari/Kubernetes-Certified-Administrator
+-  https://github.com/krzko/awesome-cka
+-  https://github.com/David-VTUK/CKA-StudyGuide
+
+
