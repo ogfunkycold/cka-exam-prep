@@ -120,8 +120,14 @@ I would suggest that you follow each and every page of this website and here are
 
 - ### Administer a cluster
 
+  - Creating a cluster with kubeadm
+    - [ ] https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/
+
   - Operating etcd cluster
     - [ ] https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/
+
+  - Using RBAC Authorization
+    - [ ] https://kubernetes.io/docs/reference/access-authn-authz/rbac/
 
 - #### UNDERSTAND PODS
 
