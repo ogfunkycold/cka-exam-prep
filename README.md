@@ -112,6 +112,73 @@ alias kgc='kubectl config get-context'
 
 This is a list of some resoures I used to study for the exam.
 
+### kubernetes.io
+
+**kubernetes.io** is the best first resource for preparation of this exam, **since in exam you are allowed to open “kubernetes.io” , so preparation from this website is going to help you in the exam also.** I am preparing using “kubernetes.io” website. 
+
+I would suggest that you follow each and every page of this website and here are my links (until now ) on which i focused more for the exam:
+
+- #### UNDERSTAND PODS
+
+  - [ ] https://kubernetes.io/docs/concepts/workloads/pods/pod/
+  - [ ] https://kubernetes.io/docs/concepts/workloads/pods/init-containers/
+
+- #### UNDERSTAND AND MANAGING CONTAINER STATE USING DEPLOYMENT
+
+  - Replica Sets 
+    - [ ] https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
+  - ReplicationController
+    - [ ] https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/
+  - Daemon Sets
+    - [ ] https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/
+  - **Rolling Updates and Rollback**
+    - [ ] https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
+  - StatefulSets
+    - [ ] https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
+  - Jobs and Cronjobs
+    - [ ] https://kubernetes.io/docs/concepts/workloads/controllers/jobs-run-to-completion/
+    - [ ] https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
+
+- #### DEEP UNDERSTANDING ABOUT SERVICES
+
+  - [ ] Services
+    - [ ] https://kubernetes.io/docs/concepts/services-networking/service/
+    - [ ] https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/
+  - DNS for Services and Pods
+    - [ ] https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
+  - Ingress
+    - [ ] https://kubernetes.io/docs/concepts/services-networking/ingress/
+
+- #### DETAILED UNDERSTANDING ABOUT VOLUMES
+
+  - Volumes and Persistent Volumes
+    - [ ] https://kubernetes.io/docs/concepts/storage/volumes/
+    - [ ] https://kubernetes.io/docs/concepts/storage/persistent-volumes/
+
+  - **Config Maps**
+
+- #### POD SCHEDULING
+
+  - Assigning Pods to Nodes
+    - https://kubernetes.io/docs/concepts/configuration/assign-pod-node/
+  - Taints and Tolerations
+    - https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/
+  - Secrets
+    - [ ] https://kubernetes.io/docs/concepts/configuration/secret/
+  - Organising Cluster Access using kubeconfig files
+    - [ ] https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/
+  - Scheduler
+    - [ ] https://kubernetes.io/docs/concepts/configuration/scheduler-perf-tuning/
+
+- #### LOGGING ARCHITECTURE
+
+  - [ ] https://kubernetes.io/docs/concepts/cluster-administration/logging/
+
+- #### MOST IMPORTANT – LOTS OF PRACTICE AND….
+
+  - kubectl Cheat Sheet
+    - [ ] https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
 ### Read
 
 - [ ] Read **Certified Kubernetes Administrator (CKA) Study Guide** by Benjamin Muschko - https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9781098107215/ -  Exclusively on O'Reilly: Get more hands-on training and test your CKA exam readiness by working through the Certified Kubernetes Administrator (CKA) Exam Prep Labs playlist. This collection of 30 interactive labs provides hands-on training that enhances the exam prep provided by this study guide.
