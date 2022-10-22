@@ -118,6 +118,11 @@ This is a list of some resoures I used to study for the exam.
 
 I would suggest that you follow each and every page of this website and here are my links (until now ) on which i focused more for the exam:
 
+- ### Administer a cluster
+
+  - Operating etcd cluster
+    - [ ] https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/
+
 - #### UNDERSTAND PODS
 
   - [ ] https://kubernetes.io/docs/concepts/workloads/pods/pod/
